@@ -1,7 +1,7 @@
 {
-  "name": "dopefolio",
+  "name": "neelaksh-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Neelaksh Singh's personel portfolio",
   "main": "index.js",
   "scripts": {
     "compile:scss": "node-sass sass/main.scss css/style.css -w",
